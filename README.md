@@ -93,10 +93,10 @@
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.mohdazhan.com">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-azhan-7500a225a/">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
 </a>
 <a href="https://github.com/AZHAN-01">
